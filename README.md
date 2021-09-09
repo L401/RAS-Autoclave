@@ -11,7 +11,7 @@ RULES:
 AGENDA: 
 
 1. Create file tree
-2. Create flow diagram for all subsystems
+2. Create flow diagrams for all subsystems
 3. Set up raspberry pi(*)
 4. Get * UI working and integrated with existing code
 5. Create at least 1 subsystem test code to be tested with test cases
